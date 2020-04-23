@@ -1,0 +1,66 @@
+Added Component: Designator=2514-(SHDR14W79P0X254_1X14_3607X241X851P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.51mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSW-114-01-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R139(RK09L124A12)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "RK09LDUAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_2"; Value = "G$2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SD_Pots"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "POT_EU-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_2"; Value = "POT_EU-"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TLE2426"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "MyLib_SD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TLE2426"; VariantName = "[No Variations]"
+Added Component: Designator=VR?(RK09L12D0A1W)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/RK09L12D0A1W.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RK09L12D0A1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "688-RK09L12D0A1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=688-RK09L12D0A1W"; VariantName = "[No Variations]"
+Added Component: Designator=VRRR(RK09L1140A65)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/RK09L1140A65.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RK09L1140A65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "688-RK09L1140A65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=688-RK09L1140A65"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=opamp1vcc Pin=2514--1
+Added Pin To Net: NetName=opamp1gnd Pin=2514--2
+Added Pin To Net: NetName=NetR135_2 Pin=2514--3
+Added Pin To Net: NetName=NetR136_2 Pin=2514--4
+Added Pin To Net: NetName=NetR137_2 Pin=2514--5
+Added Pin To Net: NetName=NetR138_2 Pin=2514--6
+Added Pin To Net: NetName=NetC5_1 Pin=2514--7
+Added Pin To Net: NetName=NetC9_1 Pin=2514--8
+Added Pin To Net: NetName=NetC8_1 Pin=2514--9
+Added Pin To Net: NetName=NetC7_1 Pin=2514--10
+Added Pin To Net: NetName=NetC3_1 Pin=2514--11
+Added Pin To Net: NetName=NetC6_1 Pin=2514--12
+Added Pin To Net: NetName=NetC4_1 Pin=2514--13
+Added Pin To Net: NetName=NetC2_1 Pin=2514--14
+Change Net Name : Old Net Name=NetC2_1 New Net Name=Net2514-_14
+Change Net Name : Old Net Name=NetC3_1 New Net Name=Net2514-_11
+Change Net Name : Old Net Name=NetC4_1 New Net Name=Net2514-_13
+Change Net Name : Old Net Name=NetC5_1 New Net Name=Net2514-_7
+Change Net Name : Old Net Name=NetC6_1 New Net Name=Net2514-_12
+Change Net Name : Old Net Name=NetC7_1 New Net Name=Net2514-_10
+Change Net Name : Old Net Name=NetC8_1 New Net Name=Net2514-_9
+Change Net Name : Old Net Name=NetC9_1 New Net Name=Net2514-_8
+Change Net Name : Old Net Name=NetR135_2 New Net Name=Net2514-_3
+Change Net Name : Old Net Name=NetR136_2 New Net Name=Net2514-_4
+Change Net Name : Old Net Name=NetR137_2 New Net Name=Net2514-_5
+Change Net Name : Old Net Name=NetR138_2 New Net Name=Net2514-_6
+Added Member To Class: ClassName=U_Sheet4 Member=Component 2514- SSW-114-01-G-S
+Added Member To Class: ClassName=U_schema3 Member=Component R139 RK09LDUAL
+Added Member To Class: ClassName=U_Sheet4 Member=Component U? TLE2426
+Added Member To Class: ClassName=U_schema3 Member=Component VR? RK09L12D0A1W
+Added Member To Class: ClassName=U_schema Member=Component VRRR RK09L1140A65

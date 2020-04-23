@@ -1,0 +1,10 @@
+Added Component: Designator=R139()
+Added Pin To Net: NetName=opamp1gnd Pin=2-4
+Added Pin To Net: NetName=opamp1gnd Pin=U1-4
+Added Pin To Net: NetName=opamp1gnd Pin=U2-4
+Added Pin To Net: NetName=opamp1gnd Pin=U3-11
+Added Pin To Net: NetName=opamp1gnd Pin=U4-11
+Added Pin To Net: NetName=opamp1gnd Pin=U5-11
+Added Pin To Net: NetName=opamp1gnd Pin=U6-11
+Added Pin To Net: NetName=opamp1gnd Pin=U7-11
+Added Pin To Net: NetName=opamp1gnd Pin=U8-11

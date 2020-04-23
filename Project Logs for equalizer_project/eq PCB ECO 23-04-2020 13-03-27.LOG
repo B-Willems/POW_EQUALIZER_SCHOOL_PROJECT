@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=U_schema3 Member=R139
+Added Component: Designator=VR23(RK09L12D0A1W)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/RK09L12D0A1W.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RK09L12D0A1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "688-RK09L12D0A1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=688-RK09L12D0A1W"; VariantName = "[No Variations]"
+Added Component: Designator=VRRR(RK09L1140A65)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/RK09L1140A65.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RK09L1140A65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "688-RK09L1140A65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=688-RK09L1140A65"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetR139_2 New Net Name=NetR140_A
+Change Net Name : Old Net Name=NetR139_5 New Net Name=NetR141_A
+Added Member To Class: ClassName=U_schema3 Member=Component VR23 RK09L12D0A1W
+Added Member To Class: ClassName=U_schema Member=Component VRRR RK09L1140A65

@@ -1,0 +1,39 @@
+Change Component Comment : Designator=R140 Old Comment=* New Comment=PDB181-K215K-104B
+Change Component Comment : Designator=R141 Old Comment=* New Comment=PDB181-K215K-104B
+Change Component Designator: OldDesignator=VR? NewDesignator=VR139
+Change component parameters: Designator = "R140" ("R140"); Footprint = "PDB181K220K104B"; UniqueID = "\IQEKTLLQ\IGNPYUTI" ("\IQEKTLLQ\IGNPYUTI")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "16.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PDB181-K215K-104B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R141" ("R141"); Footprint = "PDB181K220K104B"; UniqueID = "\IQEKTLLQ\CUTVNQJP" ("\IQEKTLLQ\CUTVNQJP")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "16.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PDB181-K215K-104B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VR23(RK09L12D0A1W)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/RK09L12D0A1W.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RK09L12D0A1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "688-RK09L12D0A1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=688-RK09L12D0A1W"; VariantName = "[No Variations]"
+Added Component: Designator=VRRR(RK09L1140A65)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/RK09L1140A65.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RK09L1140A65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "688-RK09L1140A65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=688-RK09L1140A65"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR140_A Pin=R140-1
+Added Pin To Net: NetName=NetR125_2 Pin=R140-2
+Added Pin To Net: NetName=NetR141_A Pin=R141-1
+Added Pin To Net: NetName=NetR126_2 Pin=R141-2
+Change Net Name : Old Net Name=NetR140_A New Net Name=NetR140_1
+Change Net Name : Old Net Name=NetR141_A New Net Name=NetR141_1
+Added Member To Class: ClassName=U_schema3 Member=Component VR23 RK09L12D0A1W
+Added Member To Class: ClassName=U_schema Member=Component VRRR RK09L1140A65

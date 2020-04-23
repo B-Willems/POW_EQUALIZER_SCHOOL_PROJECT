@@ -1,0 +1,11 @@
+Change Component Comment : Designator=U9 Old Comment=TLE2426 New Comment=TLE2426CDR
+Change component parameters: Designator = "U9" ("U9"); Footprint = "SOIC127P600X175-8N"; UniqueID = "\SRCBELTK\BJJQKXJX" ("\SRCBELTK\BJJQKXJX")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/TLE2426"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLE2426CDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = "595-TLE2426CDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TLE2426CDR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=U9-1
+Added Pin To Net: NetName=opamp5gnd Pin=U9-2
+Added Pin To Net: NetName=opamp5vcc Pin=U9-3

@@ -1,0 +1,27 @@
+Added Component: Designator=U?(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TLE2426"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "MyLib_SD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TLE2426"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP-1 Pin=U1-4
+Added Pin To Net: NetName=NetP-2 Pin=U1-4
+Added Pin To Net: NetName=NetP-3 Pin=U1-4
+Added Pin To Net: NetName=NetP-7 Pin=U2-4
+Added Pin To Net: NetName=NetP-9 Pin=U2-4
+Added Pin To Net: NetName=NetP-5 Pin=U3-11
+Added Pin To Net: NetName=NetP-6 Pin=U3-11
+Added Pin To Net: NetName=NetP-G Pin=U3-11
+Added Pin To Net: NetName=NetP-13 Pin=U4-11
+Added Pin To Net: NetName=NetP-14 Pin=U4-11
+Added Pin To Net: NetName=NetP-15 Pin=U4-11
+Added Pin To Net: NetName=NetP-A Pin=U5-11
+Added Pin To Net: NetName=NetP-B Pin=U5-11
+Added Pin To Net: NetName=NetP-17 Pin=U6-11
+Added Pin To Net: NetName=NetP-18 Pin=U6-11
+Added Pin To Net: NetName=NetP-E Pin=U6-11
+Added Pin To Net: NetName=NetP-? Pin=U7-11
+Added Pin To Net: NetName=NetP-21 Pin=U8-11
+Added Pin To Net: NetName=NetP-22 Pin=U8-11
+Added Pin To Net: NetName=NetP-23 Pin=U8-11
+Added Member To Class: ClassName=U_Sheet4 Member=Component U? TLE2426
